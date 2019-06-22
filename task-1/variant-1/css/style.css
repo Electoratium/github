@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+#container {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.file-container h3 {
+    font-style: italic;
+    color: gray;
+    opacity: 0.8;
+    text-align: center;
+}
+.file-input {
+  width: 40vw;
+  height: 25vw;
+  border: 2px dashed gray;
+}
+.result-container {
+  background: lightgray;
+  white-space: pre;
+}
