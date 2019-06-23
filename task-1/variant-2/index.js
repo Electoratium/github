@@ -18,6 +18,7 @@ const singleLineComment = '//',
   startMultilineComment = '/*',
   endMultilineComment = '*/',
   commentLength = 2;
+  
 function deleteComments(line) {
   let isMultiline = false;
 
