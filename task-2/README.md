@@ -17,5 +17,5 @@
   3) go to 127.0.0.1:3000
 
 
-I crated this file structure with aim of further developing SPA application. That's why i included redux.
+I created this file structure with aim of further developing SPA application. That's why I included redux.
 If you have already logged you haven't access to login page.
